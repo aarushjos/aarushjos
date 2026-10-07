@@ -2,7 +2,7 @@
 
 I'm Aarush, a Computer Engineering student at Thapar Institute of Engineering & Technology.
 
-I build whatever idea seems cool and also stuff that makes me save effort on tasks.
+I build whatever seems cool and also stuff that makes me save effort on tasks.
 
 My techstack is Python, SQL, React, tailwind.
 
