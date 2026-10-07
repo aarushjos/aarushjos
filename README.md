@@ -10,4 +10,4 @@ I'm currently researching [FL-IDS](https://github.com/aarushjos/FL-IDS-Capstone)
 
 I've solved 400+ problems on [LeetCode](https://leetcode.com/u/aarush_joshi5/).
 
-I can be reached through my [email](mailto:joshiaarush5@gmail.com).
+I can be reached through my email,[joshiaarush5@gmail.com](mailto:joshiaarush5@gmail.com).
